@@ -8,5 +8,5 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yylizh&show_icons=true&layout=compact&theme=radical&hide=jupyter%20notebook" alt="yylizh" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yylizh&show_icons=true&locale=en&theme=radical" alt="yylizh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=yylizh&show_icons=true&locale=en&theme=radical" alt="yylizh" /></p>
 
