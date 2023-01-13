@@ -11,7 +11,7 @@
   <table>
     <tr>
       <td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YYLIZH&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YYLIZH&show_icons=true&theme=radical" />
       </td>
       <td>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yylizh&theme=radical&layout=compact&hide=jupyter%20notebook" />
